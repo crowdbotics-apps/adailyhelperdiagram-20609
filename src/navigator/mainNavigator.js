@@ -12,7 +12,6 @@ import NotificationList6106992Navigator from '../features/NotificationList610699
 import Dashboard18106991Navigator from '../features/Dashboard18106991/navigator';
 import ArticleList106990Navigator from '../features/ArticleList106990/navigator';
 import Maps106977Navigator from '../features/Maps106977/navigator';
-import BlankScreen18106954Navigator from '../features/BlankScreen18106954/navigator';
 import Settings106921Navigator from '../features/Settings106921/navigator';
 import ArticleList106916Navigator from '../features/ArticleList106916/navigator';
 import Maps106903Navigator from '../features/Maps106903/navigator';
@@ -33,7 +32,6 @@ NotificationList6106992: { screen: NotificationList6106992Navigator },
 Dashboard18106991: { screen: Dashboard18106991Navigator },
 ArticleList106990: { screen: ArticleList106990Navigator },
 Maps106977: { screen: Maps106977Navigator },
-BlankScreen18106954: { screen: BlankScreen18106954Navigator },
 Settings106921: { screen: Settings106921Navigator },
 ArticleList106916: { screen: ArticleList106916Navigator },
 Maps106903: { screen: Maps106903Navigator },
